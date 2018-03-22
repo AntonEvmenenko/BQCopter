@@ -2,6 +2,8 @@
 
 DIY quadcopter based on STM32. DIY electronics, standard frame, motors and ESC's. [Videos.](https://www.youtube.com/playlist?list=PLp3uHHNT_1wAUe_-DQOpaPoW9ktin12r7)
 
+![alt text](images/bqcopter.png "Description goes here")
+
 ## More detailed description:
 
 Processor: STM32F103  
